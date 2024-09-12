@@ -1,0 +1,11 @@
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\bin\Debug\net6.0\ExcelConvert.NilTechIT.Com.Excel.deps.json
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\bin\Debug\net6.0\ExcelConvert.NilTechIT.Com.Excel.dll
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\bin\Debug\net6.0\ExcelConvert.NilTechIT.Com.Excel.pdb
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\obj\Debug\net6.0\ExcelConvert.NilTechIT.Com.Excel.GeneratedMSBuildEditorConfig.editorconfig
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\obj\Debug\net6.0\ExcelConvert.NilTechIT.Com.Excel.AssemblyInfoInputs.cache
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\obj\Debug\net6.0\ExcelConvert.NilTechIT.Com.Excel.AssemblyInfo.cs
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\obj\Debug\net6.0\ExcelConvert.NilTechIT.Com.Excel.csproj.CoreCompileInputs.cache
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\obj\Debug\net6.0\ExcelConvert.NilTechIT.Com.Excel.dll
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\obj\Debug\net6.0\refint\ExcelConvert.NilTechIT.Com.Excel.dll
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\obj\Debug\net6.0\ExcelConvert.NilTechIT.Com.Excel.pdb
+D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\obj\Debug\net6.0\ref\ExcelConvert.NilTechIT.Com.Excel.dll

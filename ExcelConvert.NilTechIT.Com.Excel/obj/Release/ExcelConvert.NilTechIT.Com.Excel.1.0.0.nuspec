@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExcelConvert.NilTechIT.Com.Excel</id>
+    <version>1.0.0</version>
+    <authors>Md Zakir Hossain</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>nil tech it.jpg</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/niltechit/ftpsharplibrary</projectUrl>
+    <description>Excel Convert</description>
+    <releaseNotes>Excel Convert</releaseNotes>
+    <copyright>Copyright © 2024 Md Zakir Hossain, Nil Tech IT</copyright>
+    <tags>Excel, .NET6.0, NET7.0, .NET8.0</tags>
+    <repository type="git" url="https://github.com/niltechit/ftpsharplibrary" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+      <group targetFramework="net7.0" />
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\bin\Release\net6.0\ExcelConvert.NilTechIT.Com.Excel.dll" target="lib\net6.0\ExcelConvert.NilTechIT.Com.Excel.dll" />
+    <file src="D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\bin\Release\net7.0\ExcelConvert.NilTechIT.Com.Excel.dll" target="lib\net7.0\ExcelConvert.NilTechIT.Com.Excel.dll" />
+    <file src="D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\bin\Release\net8.0\ExcelConvert.NilTechIT.Com.Excel.dll" target="lib\net8.0\ExcelConvert.NilTechIT.Com.Excel.dll" />
+    <file src="D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\nil tech it.jpg" target="nil tech it.jpg" />
+    <file src="D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\README.md" target="README.md" />
+    <file src="D:\CutOutWiz Projects\Other\ExcelConvert.NilTechIT.Com\ExcelConvert.NilTechIT.Com.Excel\LICENSE.txt" target="LICENSE.txt" />
+  </files>
+</package>

@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net7.0;net8.0</TargetFrameworks> <!-- Changed from TargetFramework to TargetFrameworks -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AssemblyTitle>Excel Convert</AssemblyTitle>
+    <PackageId>Excel.NilTechIT.Com</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Md Zakir Hossain</Authors>
+    <Company>Nil Tech IT</Company>
+    <Product>Software Developer</Product>
+    <Description>
+      Excel Convert
+    </Description>
+    <Copyright>Copyright © 2024 Md Zakir Hossain, Nil Tech IT</Copyright>
+    <PackageProjectUrl>https://github.com/niltechit/ftpsharplibrary</PackageProjectUrl>
+    <PackageIcon>nil tech it.jpg</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/niltechit/ftpsharplibrary</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Excel, .NET6.0, NET7.0, .NET8.0</PackageTags>
+    <PackageReleaseNotes>
+      Excel Convert
+    </PackageReleaseNotes>
+    <!--<PackageLicenseExpression>MIT</PackageLicenseExpression>-->
+    <!--<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>-->
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="nil tech it.jpg" Pack="true" PackagePath="" />
+    <None Include="README.md" Pack="true" PackagePath="" />
+    <None Include="LICENSE.txt" Pack="true" PackagePath="" />
+  </ItemGroup>
+
+</Project>
